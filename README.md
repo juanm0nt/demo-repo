@@ -7,6 +7,6 @@ Demo Github Repository.
 
 Watching Git tutorial from FreeCodeCamp and HolaMundo.
 
-# Practice
+# Local Development
 
-Practicing branching
+1. Open index.html in your browser.
